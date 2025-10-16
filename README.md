@@ -1,3 +1,4 @@
+![Uploading Screenshot 2025-10-16 114625.png…]()
 # EX.No.-2.2 CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
 ## Date :
 
