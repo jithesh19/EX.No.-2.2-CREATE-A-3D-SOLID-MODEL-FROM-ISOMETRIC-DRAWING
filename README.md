@@ -1,4 +1,5 @@
-![Uploading Screenshot 2025-10-16 114625.png…]()
+<img width="1204" height="904" alt="Screenshot 2025-10-16 114625" src="https://github.com/user-attachments/assets/6b2e519c-4cc6-49b7-8f6d-844a7c9f50a7" />
+
 # EX.No.-2.2 CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
 ## Date :
 
